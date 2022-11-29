@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuliana Jiménez @ydjimenez
 - 👀 I’m interested in Computer Visison, Medical image processing, Breast cancer and Cervical cancer images
 - 🌱 I’m currently learning CNN, GANs
-- 💞️ I’m looking to collaborate on cervix cancer
+- 💞️ I’m looking to collaborate on  breast and cervix cancer
 - 📫 Actually Im working as a research at Universidad Técnica Particular de  , ydjimenez@utpl.edu.ec
 
 <!---
